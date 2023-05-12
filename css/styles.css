@@ -80,7 +80,9 @@
 .hide {
   display: none;
 }
-
+.form-control { 
+  display: block; 
+}
 p {
   font-weight: bold;
 }
